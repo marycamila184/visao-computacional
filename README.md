@@ -11,6 +11,7 @@ https://docs.google.com/presentation/d/1rNZCxRNnkAbcRkktvsP2yu0TN9ajmPGfkoTmJEjs
 
 Link com o material da Aula 01 - Introdução a Processamento Digital de Imagens:
 https://docs.google.com/presentation/d/10wrk44ue_lsvc4wBF5b2FZifiZyzCaf5qLh0ZXitoYA/edit?usp=share_link
+
 Link do Notebook Aula 01 com os Exercícios feitos em sala:
 https://drive.google.com/drive/folders/15J31AS0kEHGtfwE0AZU3ruLDDejnyh7N?usp=share_link
 
