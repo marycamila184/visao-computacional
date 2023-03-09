@@ -14,12 +14,19 @@ https://docs.google.com/presentation/d/1rNZCxRNnkAbcRkktvsP2yu0TN9ajmPGfkoTmJEjs
 Link com o material da Aula 01 - Introdução a Processamento Digital de Imagens:
 https://docs.google.com/presentation/d/10wrk44ue_lsvc4wBF5b2FZifiZyzCaf5qLh0ZXitoYA/edit?usp=share_link
 
+Link do Notebook Aula 01 com os Exercícios feitos em sala:
+https://drive.google.com/drive/folders/15J31AS0kEHGtfwE0AZU3ruLDDejnyh7N?usp=share_link
+
 ##### Aula 02 - Histogramas, Filtros e Binarização
 Link com o material da Aula 02 - Histogramas, Filtros e Binarização:
 https://docs.google.com/presentation/d/1VFOnIk0K3ry_M7Vscao5puSfmJEOEdLxqQRe6flf0rg/edit#slide=id.g1de35656e90_0_284
 
+Para casa: Slide 09
 
-Link do Notebook Aula 01 com os Exercícios feitos em sala:
-https://drive.google.com/drive/folders/15J31AS0kEHGtfwE0AZU3ruLDDejnyh7N?usp=share_link
+Link do Notebook Aula 02 com os Exercícios feitos em sala:
+https://colab.research.google.com/drive/15zKuVlC9v_Je51-9TsAAJw1v9_PBsBJg?usp=sharing
+
+
+
 
 
