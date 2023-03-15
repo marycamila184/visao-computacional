@@ -26,6 +26,8 @@ Para casa: Slide 09
 Link do Notebook Aula 02 com os Exercícios feitos em sala:
 https://colab.research.google.com/drive/15zKuVlC9v_Je51-9TsAAJw1v9_PBsBJg?usp=sharing
 
+##### Aula 03 - Equalizaçao de Histogramas e Filtros
+https://docs.google.com/presentation/d/1RbihQVzbMEvQfrOwv90mkbnLLqgBEczfiWyZF-7ce_c/edit?usp=sharing
 
 
 
