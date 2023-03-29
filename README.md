@@ -30,8 +30,11 @@ https://colab.research.google.com/drive/15zKuVlC9v_Je51-9TsAAJw1v9_PBsBJg?usp=sh
 ##### Aula 03 - Equalizaçao de Histogramas e Filtros
 https://docs.google.com/presentation/d/1RbihQVzbMEvQfrOwv90mkbnLLqgBEczfiWyZF-7ce_c/edit?usp=sharing
 
-##### Aula 04 - Limiarização Adaptativa, Normalização e Gradientes
+##### Aula 04 - Limiarização Adaptativa e Normalização
 https://docs.google.com/presentation/d/1mlQoV533i-4XR3ja6joXwhLi9H_xrz45Y24BXplxQHc/edit?usp=sharing
+
+##### Aula 05 - Máscaras e Gradientes
+https://docs.google.com/presentation/d/1zT4ihmfcEzGnX5s2Pyb2Fozwg07J_e9j16q5ozIa8JA/edit?usp=sharing
 
 
 
