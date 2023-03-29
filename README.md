@@ -36,5 +36,8 @@ https://docs.google.com/presentation/d/1mlQoV533i-4XR3ja6joXwhLi9H_xrz45Y24BXplx
 ##### Aula 05 - Máscaras e Gradientes
 https://docs.google.com/presentation/d/1zT4ihmfcEzGnX5s2Pyb2Fozwg07J_e9j16q5ozIa8JA/edit?usp=sharing
 
+Link do Notebook Aula 05 com os Exercícios feitos em sala:
+https://colab.research.google.com/drive/1RHIWcps_vmTSTabLrw0sdHw6mK_7boRN?usp=share_link
+
 
 
