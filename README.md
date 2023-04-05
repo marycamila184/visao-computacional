@@ -33,11 +33,17 @@ https://docs.google.com/presentation/d/1RbihQVzbMEvQfrOwv90mkbnLLqgBEczfiWyZF-7c
 ##### Aula 04 - Limiarização Adaptativa e Normalização
 https://docs.google.com/presentation/d/1mlQoV533i-4XR3ja6joXwhLi9H_xrz45Y24BXplxQHc/edit?usp=sharing
 
-##### Aula 05 - Máscaras e Gradientes
+##### Aula 05 - Máscaras e Gradientes (Parte 1)
 https://docs.google.com/presentation/d/1zT4ihmfcEzGnX5s2Pyb2Fozwg07J_e9j16q5ozIa8JA/edit?usp=sharing
 
-Link do Notebook Aula 05 com os Exercícios feitos em sala:
+Link do Notebook Aula 05 com os Exercícios feitos em sala (corrigido):
 https://colab.research.google.com/drive/1RHIWcps_vmTSTabLrw0sdHw6mK_7boRN?usp=share_link
+
+##### Aula 06 - Aula 06 - Gradientes, Bordas, Prewitt e Sobel (Parte 2)
+https://docs.google.com/presentation/d/1rfc209Q_aGF2l0iPWpoFvoxDOB2DKUDWi0ZRinL2Wxg/edit?usp=sharing
+
+Link do Notebook Aula 06 com os Exercícios feitos em sala:
+https://colab.research.google.com/drive/1JMbDrqYX5UZNauTIO53Vzn3gHqmwXef9?usp=sharing
 
 
 
