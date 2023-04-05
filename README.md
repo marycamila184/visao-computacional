@@ -5,6 +5,7 @@
 #### Turma - Ecoville - BSI - Quarta - 19:00 às 21:50
 
 Plano de Aula - https://docs.google.com/document/d/1oor8CoAT6uVgwOyzasDCXNNumMPMa3Eh/edit?usp=sharing&ouid=106959616818079075631&rtpof=true&sd=true
+
 Source Imagens - https://drive.google.com/drive/folders/1FNWf6mlee5w2umXd149_aBFYrfUv6d50?usp=share_link
 
 ##### Aula 00 - Aula Inaugural
