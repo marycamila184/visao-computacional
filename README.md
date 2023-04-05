@@ -40,7 +40,7 @@ https://docs.google.com/presentation/d/1zT4ihmfcEzGnX5s2Pyb2Fozwg07J_e9j16q5ozIa
 Link do Notebook Aula 05 com os Exercícios feitos em sala (corrigido):
 https://colab.research.google.com/drive/1RHIWcps_vmTSTabLrw0sdHw6mK_7boRN?usp=share_link
 
-##### Aula 06 - Aula 06 - Gradientes, Bordas, Prewitt e Sobel (Parte 2)
+##### Aula 06 - Aula 06 - Gradientes, Prewitt, Sobel e Laplace (Parte 2)
 https://docs.google.com/presentation/d/1rfc209Q_aGF2l0iPWpoFvoxDOB2DKUDWi0ZRinL2Wxg/edit?usp=sharing
 
 Link do Notebook Aula 06 com os Exercícios feitos em sala:
