@@ -46,11 +46,14 @@ https://docs.google.com/presentation/d/1zT4ihmfcEzGnX5s2Pyb2Fozwg07J_e9j16q5ozIa
 Link do Notebook Aula 05 com os Exercícios feitos em sala (corrigido):
 https://colab.research.google.com/drive/1RHIWcps_vmTSTabLrw0sdHw6mK_7boRN?usp=share_link
 
-##### Aula 06 - Aula 06 - Gradientes, Prewitt, Sobel e Laplace (Parte 2)
+##### Aula 06 - Gradientes, Prewitt, Sobel e Laplace (Parte 2)
 https://docs.google.com/presentation/d/1rfc209Q_aGF2l0iPWpoFvoxDOB2DKUDWi0ZRinL2Wxg/edit?usp=sharing
 
 Link do Notebook Aula 06 com os Exercícios feitos em sala:
 https://colab.research.google.com/drive/1JMbDrqYX5UZNauTIO53Vzn3gHqmwXef9?usp=sharing
+
+#### Aula 07 - Canny, Morfologia Matemática, Erosão, Dilatação, Abertura e Fechamento
+https://docs.google.com/presentation/d/1ly1-xhceM2XxynvDj4KjQp_Dc8DXuskds26kJOFjxJg/edit?usp=sharing
 
 
 
