@@ -58,5 +58,8 @@ https://colab.research.google.com/drive/1JMbDrqYX5UZNauTIO53Vzn3gHqmwXef9?usp=sh
 #### Aula 07 - Canny, Morfologia Matemática, Erosão, Dilatação, Abertura e Fechamento
 https://docs.google.com/presentation/d/1ly1-xhceM2XxynvDj4KjQp_Dc8DXuskds26kJOFjxJg/edit?usp=sharing
 
+#### Aula 08 - Domínio da Frequência e Transformada de Fourier
+https://docs.google.com/presentation/d/1cGA-bSkPEY-M6yO1k6QIdzyB_etPtrcCmdUnsiqnF5U/edit?usp=sharing
+
 
 
