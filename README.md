@@ -61,5 +61,8 @@ https://docs.google.com/presentation/d/1ly1-xhceM2XxynvDj4KjQp_Dc8DXuskds26kJOFj
 #### Aula 08 - Domínio da Frequência e Transformada de Fourier
 https://docs.google.com/presentation/d/1cGA-bSkPEY-M6yO1k6QIdzyB_etPtrcCmdUnsiqnF5U/edit?usp=sharing
 
+Link do Notebook Aula 08 com os Exercícios feitos em sala:
+https://colab.research.google.com/drive/1qp0chVBwLymRkK_QwsnjEkbtWrq5znsP#scrollTo=subxmyBjUsNI
+
 
 
