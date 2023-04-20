@@ -1,8 +1,5 @@
 # visao-computacional
 
-## Workshop - Visão Computacional - 14/04/2023
-Link: https://docs.google.com/presentation/d/1EUHP-k4v0i-oA-06YcYuU8AMmqEcgPVqKyF6SA_nuYY/edit?usp=sharing
-
 ## Repositório com informações sobre a disciplina de Visão Computacional da Universidade Positivo
 
 #### Turma - Ecoville - BSI - Quarta - 19:00 às 21:50
