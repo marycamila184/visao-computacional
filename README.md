@@ -8,6 +8,8 @@ Plano de Aula - https://docs.google.com/document/d/1oor8CoAT6uVgwOyzasDCXNNumMPM
 
 Source Imagens - https://drive.google.com/drive/folders/1FNWf6mlee5w2umXd149_aBFYrfUv6d50?usp=share_link
 
+Planilha com as notas e avaliações: https://docs.google.com/spreadsheets/d/1vQcNmSHXdj8T4AmyaMNXY1LwHipQg2nVS98frkxQg5s/edit?usp=sharing
+
 ##### Aula 00 - Aula Inaugural
 Link com o material da Aula 00 - Inaugural:
 https://docs.google.com/presentation/d/1rNZCxRNnkAbcRkktvsP2yu0TN9ajmPGfkoTmJEjsmaE/edit?usp=sharing
