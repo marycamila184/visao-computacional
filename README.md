@@ -63,5 +63,10 @@ https://docs.google.com/presentation/d/1cGA-bSkPEY-M6yO1k6QIdzyB_etPtrcCmdUnsiqn
 Link do Notebook Aula 08 com os Exercícios feitos em sala:
 https://colab.research.google.com/drive/1qp0chVBwLymRkK_QwsnjEkbtWrq5znsP#scrollTo=subxmyBjUsNI
 
+#### Aula 09 - Redimensionamento e Transformada de Hough (Parte 1)
+https://docs.google.com/presentation/d/1gLOwVOd3V91Hrbac8JmgNQoLS_liQJcIIBFByJuwwo0/edit?usp=sharing
+
+
+
 
 
