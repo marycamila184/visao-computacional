@@ -66,6 +66,9 @@ https://colab.research.google.com/drive/1qp0chVBwLymRkK_QwsnjEkbtWrq5znsP#scroll
 #### Aula 09 - Redimensionamento e Transformada de Hough (Parte 1)
 https://docs.google.com/presentation/d/1gLOwVOd3V91Hrbac8JmgNQoLS_liQJcIIBFByJuwwo0/edit?usp=sharing
 
+#### Aula 10 - Transformada de Hough, Introdução a Visão e HoG
+https://docs.google.com/presentation/d/19aA7a6V-mWg3cGc2dsz3caaoSQ0SB2yMnOBQemdk_Ps/edit?usp=drive_link
+
 
 
 
