@@ -69,6 +69,9 @@ https://docs.google.com/presentation/d/1gLOwVOd3V91Hrbac8JmgNQoLS_liQJcIIBFByJuw
 #### Aula 10 - Transformada de Hough, Introdução a Visão e HoG
 https://docs.google.com/presentation/d/19aA7a6V-mWg3cGc2dsz3caaoSQ0SB2yMnOBQemdk_Ps/edit?usp=drive_link
 
+#### Aula 11 - Introdução a Redes Neurais
+https://docs.google.com/presentation/d/14JwPKF2F3HLkQ5VXf4pynbl-oFJ4Hl7RgjVU_EfQc94/edit?usp=sharing
+
 
 
 
