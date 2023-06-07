@@ -72,6 +72,9 @@ https://docs.google.com/presentation/d/19aA7a6V-mWg3cGc2dsz3caaoSQ0SB2yMnOBQemdk
 #### Aula 11 - Introdução a Redes Neurais
 https://docs.google.com/presentation/d/14JwPKF2F3HLkQ5VXf4pynbl-oFJ4Hl7RgjVU_EfQc94/edit?usp=sharing
 
+#### Aula 12 - Redes Neurais e CNNs - Parte 2
+https://docs.google.com/presentation/d/1lnJB8FqFfpApsXfVWRcgtsAN5BKVFsaSTdrqVtO13_w/edit?usp=sharing
+
 
 
 
