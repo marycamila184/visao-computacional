@@ -75,6 +75,9 @@ https://docs.google.com/presentation/d/14JwPKF2F3HLkQ5VXf4pynbl-oFJ4Hl7RgjVU_EfQ
 #### Aula 12 - Redes Neurais e CNNs - Parte 2
 https://docs.google.com/presentation/d/1lnJB8FqFfpApsXfVWRcgtsAN5BKVFsaSTdrqVtO13_w/edit?usp=sharing
 
+#### Aula 13 - Transfer Learning e CNNs para Detecção e Segmentação
+https://docs.google.com/presentation/d/147ODvO040OpFNsw_aO3Hc2rcK1dYSI_c5bqRfK9nUbI/edit
+
 
 
 
